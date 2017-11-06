@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>课程编号:</strong>
+  <%= @course_select.num %>
+</p>
+
+<p>
+  <strong>课程名称:</strong>
+  <%= @course_select.name %>
+</p>
+
+<p>
+  <strong>学分:</strong>
+  <%= @course_select.score %>
+</p>
+
+<p>
+  <strong>授课教师:</strong>
+  <%= @course_select.tutor %>
+</p>
+
+<%= link_to 'Edit', edit_course_select_path(@course_select) %> |
+<%= link_to 'Back', course_selects_path %>

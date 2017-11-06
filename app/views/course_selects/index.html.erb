@@ -1,0 +1,32 @@
+<p id="notice"><%= notice %></p>
+
+<h1>已选课程</h1>
+
+<table border="1">
+  <thead>
+    <tr>
+        <th>课程编号</th>
+      <th>课程名称</th>
+      <th>学分</th>
+      <th>授课教师</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @course_selects.each do |course_select| %>
+      <tr>
+        <td><%= course_select.num %></td>
+        <td><%= course_select.name %></td>
+        <td><%= course_select.score %></td>
+        <td><%= course_select.tutor %></td>
+        <td><%= link_to '查看', course_select %></td>
+        <td><%= link_to '编辑', edit_course_select_path(course_select) %></td>
+        <td><%= link_to '删除', course_select, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to '添加课程', new_course_select_path %>

@@ -1,0 +1,2 @@
+class CourseSelect < ApplicationRecord
+end
