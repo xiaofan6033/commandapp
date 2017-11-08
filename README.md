@@ -35,11 +35,11 @@
 
    <img src="/lib/1.png" width="700"> 
 
-   2.link到www.gucas.ac.cn
+   2.点击greetings/hello界面中welcome to UCAS link到www.gucas.ac.cn
 
    <img src="/lib/2.png" width="700">
 
-   3.link到localhost:3000/course_selects
+   3.点击greetings/hello界面中查看选课信息link到localhost:3000/course_selects
 
    <img src="/lib/3.png" width="700">
 
@@ -59,6 +59,6 @@
 
    <img src="/lib/7.png" width="700">
 
-   8.跳转到localhost:3000/say/Goodbye界面
+   8.点击greetings/hell界面中exit按钮去跳转到localhost:3000/say/Goodbye界面
 
    <img src="/lib/8.png" width="700">
