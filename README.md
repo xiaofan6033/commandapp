@@ -1,10 +1,10 @@
 第一次作业说明文档:
 
-###一、框架名称：commandapp
+一、框架名称：commandapp
 
 包含：greetings/hello，say/Goodbye，course_selects三个主要界面
 
-##二、主要功能：
+二、主要功能：
    
   1.greetings/hello功能有：
 
@@ -26,7 +26,7 @@
    
   4.数据库表名称：CourseSelect
 
-    包含属性有：课程编号，课程名称，学分，授课教师
+   包含属性有：课程编号，课程名称，学分，授课教师
 
 
 三、实验结果主要截图：
