@@ -1,32 +1,35 @@
-第一次作业说明文档
+第一次作业说明文档:
 
-框架名称：commandapp
+一、框架名称：commandapp
 
-包含：greetings/hello，say/Goodbye，course_selects三个主要界面
+    包含：greetings/hello，say/Goodbye，course_selects三个主要界面
 
-其中greetings/hello功能有：
-
-  1.link到国科大主页
+二、主要功能：
    
-  2.显示本地时间
-   
-  3.实现与say/Goodbye页面的跳转
-   
-  4.link到course_selects界面，查看个人选课信息
-   
- say/Goodbye功能
+   1.greetings/hello功能有：
 
-   跳转到greetinghello界面
+     （1）.link到国科大主页
    
-course_select功能
-
-   课程的添加，查看，修改，删除
+     （2）.显示本地时间
    
-数据库表名称：CourseSelect
+     （3）.实现与say/Goodbye页面的跳转
+   
+     （4）.link到course_selects界面，查看个人选课信息
+   
+   2.say/Goodbye功能
 
-包含属性有：课程编号，课程名称，学分，授课教师
+     跳转到greetinghello界面
+   
+   3.course_select功能
 
-实验结果主要截图：
+     课程的添加，查看，修改，删除
+   
+   4.数据库表名称：CourseSelect
+
+    包含属性有：课程编号，课程名称，学分，授课教师
+
+
+三、实验结果主要截图：
 
 1.localhost:3000/greetings/hello
 
