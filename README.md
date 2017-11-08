@@ -28,26 +28,26 @@ course_select功能
 
 实验结果主要截图：
 
-1.
+1.localhost:3000/greetings/hello
 <img src="/lib/1.png" width="700"> 
 
-2.
+2.link到www.gucas.ac.cn
 <img src="/lib/2.png" width="700">
 
-3.
+3.link到localhost:3000/course_selects
 <img src="/lib/3.png" width="700">
 
-4.
+4.添加课程
 <img src="/lib/4.png" width="700">
 
-5.
+5.查看课程
 <img src="/lib/5.png" width="700">
 
-6.
+6.修改课程
 <img src="/lib/6.png" width="700">
 
-7.
+7.删除课程
 <img src="/lib/7.png" width="700">
 
-8.
+8.跳转到localhost:3000/say/Goodbye界面
 <img src="/lib/8.png" width="700">
