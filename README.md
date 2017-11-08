@@ -27,4 +27,4 @@ course_select功能
 包含属性有：课程编号，课程名称，学分，授课教师
 
 实验结果主要截图：
-
+<img src="/lib/1.png" width="700"> 
