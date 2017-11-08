@@ -2,7 +2,7 @@
 
 框架名称：commandapp
 
-包含：greetings/hello，say/goodbye，course_selects三个主要界面
+包含：greetings/hello，say/Goodbye，course_selects三个主要界面
 
 其中greetings/hello功能有：
 
@@ -10,11 +10,11 @@
    
   2.显示本地时间
    
-  3.实现与saygoodbye页面的跳转
+  3.实现与say/Goodbye页面的跳转
    
   4.link到course_selects界面，查看个人选课信息
    
- say/goodbye功能
+ say/Goodbye功能
 
    跳转到greetinghello界面
    
