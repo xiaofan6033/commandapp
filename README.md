@@ -1,6 +1,6 @@
 第一次作业说明文档:
 
-一、框架名称：commandapp
+一、框架名称: Commandapp
 
 包含：greetings/hello，say/Goodbye，course_selects三个主要界面
 
