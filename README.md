@@ -2,19 +2,19 @@
 
 一、框架名称：commandapp
 
-    包含：greetings/hello，say/Goodbye，course_selects三个主要界面
+包含：greetings/hello，say/Goodbye，course_selects三个主要界面
 
 二、主要功能：
    
    1.greetings/hello功能有：
 
-     （1）.link到国科大主页
+    （1）.link到国科大主页
    
-     （2）.显示本地时间
+    （2）.显示本地时间
    
-     （3）.实现与say/Goodbye页面的跳转
+    （3）.实现与say/Goodbye页面的跳转
    
-     （4）.link到course_selects界面，查看个人选课信息
+    （4）.link到course_selects界面，查看个人选课信息
    
    2.say/Goodbye功能
 
@@ -31,34 +31,34 @@
 
 三、实验结果主要截图：
 
-1.localhost:3000/greetings/hello
+   1.localhost:3000/greetings/hello
 
-<img src="/lib/1.png" width="700"> 
+   <img src="/lib/1.png" width="700"> 
 
-2.link到www.gucas.ac.cn
+   2.link到www.gucas.ac.cn
 
-<img src="/lib/2.png" width="700">
+   <img src="/lib/2.png" width="700">
 
-3.link到localhost:3000/course_selects
+   3.link到localhost:3000/course_selects
 
-<img src="/lib/3.png" width="700">
+   <img src="/lib/3.png" width="700">
 
-4.添加课程
+   4.添加课程
 
-<img src="/lib/4.png" width="700">
+   <img src="/lib/4.png" width="700">
 
-5.查看课程
+   5.查看课程
 
-<img src="/lib/5.png" width="700">
+   <img src="/lib/5.png" width="700">
 
-6.修改课程
+   6.修改课程
 
-<img src="/lib/6.png" width="700">
+   <img src="/lib/6.png" width="700">
 
-7.删除课程
+   7.删除课程
 
-<img src="/lib/7.png" width="700">
+   <img src="/lib/7.png" width="700">
 
-8.跳转到localhost:3000/say/Goodbye界面
+   8.跳转到localhost:3000/say/Goodbye界面
 
-<img src="/lib/8.png" width="700">
+   <img src="/lib/8.png" width="700">
