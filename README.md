@@ -6,17 +6,17 @@
 
 其中greetinghello功能有：
 
-     1.link到国科大主页
+  1.link到国科大主页
    
-     2.显示本地时间
+  2.显示本地时间
    
-     3.实现与saygoodbye页面的跳转
+  3.实现与saygoodbye页面的跳转
    
-     4.link到course_selects界面，查看个人选课信息
+  4.link到course_selects界面，查看个人选课信息
    
  saygoodbye功能
 
-     跳转到greetinghello界面
+   跳转到greetinghello界面
    
 course_select功能
 
@@ -27,4 +27,27 @@ course_select功能
 包含属性有：课程编号，课程名称，学分，授课教师
 
 实验结果主要截图：
+
+1.
 <img src="/lib/1.png" width="700"> 
+
+2.
+<img src="/lib/2.png" width="700">
+
+3.
+<img src="/lib/3.png" width="700">
+
+4.
+<img src="/lib/4.png" width="700">
+
+5.
+<img src="/lib/5.png" width="700">
+
+6.
+<img src="/lib/6.png" width="700">
+
+7.
+<img src="/lib/7.png" width="700">
+
+8.
+<img src="/lib/8.png" width="700">
